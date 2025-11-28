@@ -132,7 +132,47 @@ int main() {
 
 
 
-    int marks
+    // int marks;
+    // cout << "Enter your marks: ";
+    // cin >> marks;
+    // if (marks >= 90) {
+    //     cout << "Grade A" << endl;
+    // } else if (marks >= 80 && marks < 90) {
+    //     cout << "Grade B" << endl;
+    // } else {
+    //     cout << "Grade C" << endl;
+    // }
+
+
+
+
+    // char ch ;
+    // cout << "Enter a character: ";
+    // cin >> ch;
+    // if (ch >= 'a' && ch <= 'z') {
+    //     cout << ch << " lowercase" << endl;
+    // } else {
+    //     cout << ch << " uppercase" << endl;
+    // }
+
+
+    // ascii value
+    // char ch ;
+    // cout << "Enter a character: ";
+    // cin >> ch;
+    // if (ch >= 97 && ch <= 122) {
+    //     cout << ch << " lowercase" << endl;
+    // } else {
+    //     cout << ch << " uppercase" << endl;
+    // }
+
+
+    //ternary statement
+    int n = -45;
+    cout << (n >= 0 ? "positive" : "negative") << endl;
+
+
+
 
  
 
