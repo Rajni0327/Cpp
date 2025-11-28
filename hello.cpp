@@ -29,10 +29,40 @@ int main() {
 
 
 
-    int age;
-    cout << "Enter the age : ";
-    cin >> age;
-    cout << "Your age is " << age << endl;
+
+
+
+    // int age;
+    // cout << "Enter the age : ";
+    // cin >> age;
+    // cout << "Your age is " << age << endl;
+
+
+
+    // double price;
+    // cout << "Enter the price : ";
+    // cin >> price;
+    // cout << "The price is " << price << endl;
+
+
+    // Arithmetic Operators
+    // int a = 11, b = 5;
+
+    // cout << "sum " << (a + b)<< endl;
+    // cout << "difference " << (a - b)<< endl;
+    // cout << "product " << (a * b)<< endl;
+    // cout << "division " << (a / b)<< endl;
+    // cout << "modulus " << (a % b)<< endl;
+
+
+
+    // cout << (5 / (double)2) << endl;
+
+
+    
+
+
+
 
  
 
