@@ -168,10 +168,85 @@ int main() {
 
 
     //ternary statement
-    int n = -45;
-    cout << (n >= 0 ? "positive" : "negative") << endl;
+    // int n = -45;
+    // cout << (n >= 0 ? "positive" : "negative") << endl;
 
 
+
+    // while loop
+    // int count = 1 ;  // initialization
+    // while (count <= 5) {  // condition
+    //     cout << count << " " ;
+    //     count++;  // updation
+    // }
+
+    // cout <<  endl;
+
+
+    // for loop
+    // for (int i = 1; i <= 5; i++) {
+    //     cout << i << " " ;
+    // }
+
+
+    // int n = 5;
+    // int sum = 0;
+    // for (int i = 1; i <= n; i++) {
+    //     sum += i;
+    // }
+    // cout << sum << " ";
+
+    //using while loop
+    // int n = 5;
+    // int i = 1;
+    // int sum = 0;
+    // while (i <= n) {
+    //     sum += i;
+    //     i++;
+    // }
+
+    // cout << sum << " ";
+
+
+    // int n = 5;
+    // int oddSum = 0;
+    // for (int i = 1; i <= n ; i++) {
+    //     if (i % 2 != 0) {
+    //         oddSum += i;
+    //     }
+    // }
+    // cout << oddSum  << " ";
+
+
+    //while loop
+    // int n = 5;
+    // int oddSum = 0;
+    // int i = 1;
+    // while (i <= n) {
+    //     if (i % 2 != 0) {
+    //         oddSum += i;
+    //     }
+    //     i++;
+    // }
+
+    // cout << oddSum << " ";
+
+
+    //for loop
+    // int n = 4;
+    // int evenSum = 0;
+    // for (int i = 1; i <= n ; i++) {
+    //     if (i % 2 == 0) {
+    //         evenSum += i;
+    //     }
+    // }
+
+    // cout << evenSum  << " ";
+
+
+
+
+ 
 
 
  
