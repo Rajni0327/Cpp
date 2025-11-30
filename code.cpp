@@ -208,6 +208,8 @@ int main() {
     // cout << sum << " ";
 
 
+
+
     // int n = 5;
     // int oddSum = 0;
     // for (int i = 1; i <= n ; i++) {
@@ -216,6 +218,8 @@ int main() {
     //     }
     // }
     // cout << oddSum  << " ";
+
+
 
 
     //while loop
@@ -232,6 +236,8 @@ int main() {
     // cout << oddSum << " ";
 
 
+
+
     //for loop
     // int n = 4;
     // int evenSum = 0;
@@ -243,6 +249,82 @@ int main() {
 
     // cout << evenSum  << " ";
 
+
+
+
+    //do while loop
+    // int n = 10;
+    // int i = 1;
+
+    // do{
+    //     cout << i << " ";
+    //     i++;
+    // } while (i <= n);
+
+    // cout << endl;
+
+
+
+
+
+
+
+
+
+
+    // int n = 7;
+    // bool isPrime = true;
+
+    // for (int i = 2; i* i <= n ; i++) {
+    //     if (n % i == 0) {  // not a prime number
+    //         isPrime = false;
+    //         break;
+    //     }
+    // }
+
+    // if (isPrime == true) {
+    //     cout << n << " is a prime number." << endl;
+    // } else {
+    //     cout << n << " is not a prime number." << endl;
+    // }
+
+
+    //nested loops
+
+    // int n = 5;  // no of lines
+    // for (int i = 1; i <= n; i++) {
+    //     int m = 6;  // no of columns
+    //     for (int j = 1; j <= m; j++) {
+    //         cout << "* ";
+    //     }
+    //     cout << endl;
+    // }
+
+
+    
+
+    //sum of all the numbers from 1 to n dwhich are divisible by 3 
+
+    // int n = 10;
+    // int sum = 0;
+    // for (int i = 1; i <= n; i++) {
+    //     if (i % 3 == 0) {
+    //         sum += i;
+    //     }
+    // }
+    // cout << sum << endl;
+
+
+    
+
+
+
+
+
+
+
+
+  
 
 
 
